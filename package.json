@@ -2,7 +2,7 @@
   "name": "github-users-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://saulreznik.github.io/github-users-list",
+  "homepage": "http://SaulReznik.github.io/github-users-list",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
